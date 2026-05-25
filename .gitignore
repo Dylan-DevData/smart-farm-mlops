@@ -1,0 +1,14 @@
+# Ignorer l'environnement virtuel
+.venv/
+
+# Ignorer les fichiers de cache Python
+__pycache__/
+*.pyc
+
+# Ignorer les fichiers lourds de modèles et de données (pour l'instant)
+*.keras
+*.pt
+*.h5
+
+# Ignorer les configurations PyCharm
+.idea/
